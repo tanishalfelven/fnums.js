@@ -1,0 +1,18 @@
+{
+  "name": "fnums.js",
+  "version": "1.0.0",
+  "description": "A function based number integration to simplify javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fnums.js"
+  },
+  "author": "tanishalfelven",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
